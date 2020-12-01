@@ -490,7 +490,7 @@ In the case of a `hasMany` and `belongsToMany` relationships, you also have acce
 These methods take the same parameters as the ones you know in the `Collection` class.
 
 ## Events
-
+Testt
 Xenus fires several events when working with the `insert()`, `update()` and `delete()` methods of a collection. This allows you to hook into a document's lifecycle when working on it.
 For exemple, you may want to receive a notification whenever a document is deleted ; that would be done using the `deleted` event a collection fires when a document is deleted.
 
